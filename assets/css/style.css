@@ -31,8 +31,15 @@ header {
     box-shadow: 0 4px 4px #a7acad;
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
 h1 {
     font-family: 'Nunito', sans-serif;
+    letter-spacing: 1px;
+    color: #444852;
 }
 
 /* Main content */
