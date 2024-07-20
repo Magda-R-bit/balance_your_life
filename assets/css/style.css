@@ -40,7 +40,7 @@ header a {
 
 h1 {
     font-family: 'Nunito', sans-serif;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     color: #444852;
 }
 
@@ -85,6 +85,7 @@ nav {
     font-size: 2rem;
 }
 
+
 /* Main content */
 main {
     background-color: beige;
@@ -95,7 +96,21 @@ main {
 
 /* Footer */
 footer {
-    background-color: blueviolet;
+    background-color: #a2a3a5;
+}
+
+#social-media {
+    text-align: center;
+    padding: 0.5rem 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-media i {
+    font-size: 180%;
+    padding: 20%;
+    color: #040911;
 }
 
 /* Media query: tablets and larger (768px and up) */
