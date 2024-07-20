@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
 
-
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -97,4 +96,28 @@ main {
 /* Footer */
 footer {
     background-color: blueviolet;
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and  (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+    #menu {
+        display: flex;
+    }
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+
 }
