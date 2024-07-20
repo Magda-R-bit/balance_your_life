@@ -42,6 +42,23 @@ h1 {
     color: #444852;
 }
 
+#menu {
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 2px;
+    color: #101825;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #101825;
+}
+
+
 /* Main content */
 main {
     background-color: beige;
