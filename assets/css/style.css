@@ -107,6 +107,61 @@ main {
     position: relative;
 }
 
+#cover-text {
+    font-size: 105%;
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    min-height: 30px;
+    padding-left: 15px;
+}
+
+#cover-text h2,
+#cover-text h3 {
+    color: #454e53;
+}
+
+/* Reason section */
+#reasons {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#reasons h3 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 170%;
+}
+
+#reasons h4 {
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    font-size: 100%;
+}
+
+#mental > div,
+#physical > div {
+    line-height: 45px;
+    margin-bottom: 35px;
+}
+
+#benefits h2 {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 140%;
+}
+#benefits p {
+    margin-bottom: 2px;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #2f3236;
+}
+
+
+
 /* Footer */
 footer {
     background-color: #a2a3a5;
@@ -157,16 +212,40 @@ footer {
     /* Main content */
     main {
         /* Push main content down to accommodate larger header */
-        margin-top: 70px;
+        margin-top: 68px;
     }
 
+    /* Hero */
+    #cover-text {
+        width: 360px;
+        left: 10px;
+        top: 1rem;
+    }
+}
     /* Media query: large device (lapotops and desktops, 992px and up) */
     @media screen and (min-width: 992px) {
         #menu a:hover {
             border-bottom: 1px solid #101825;
         }
         
+        /* Hero */
+        #cover-text {
+            width: 300px;
+            left: 15px;
+            top: 1.5rem;
+        }
+
+    }
+
+    /* Media query for large screens (1200px and up) */
+    @media screen and (min-width: 1200px) {
+        /* Hero */
+        #cover-text h2, 
+        #cover-text h3 {
+            color: #2a2d30;
+        }
+
+        
     }
 
 
-}
