@@ -23,7 +23,7 @@ body {
 /* Header */
 header {
     background-color: #dedfe4;
-    padding: 0 1rem;
+    padding: 0 0.5rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -40,8 +40,14 @@ header a {
 
 h1 {
     font-family: 'Nunito', sans-serif;
-    letter-spacing: 0.5px;
+    letter-spacing: 1px;
     color: #444852;
+}
+
+#logo {
+    font-size: 145%;
+    line-height: 3.5rem;
+    margin: 0 0.5rem;
 }
 
 #menu {
@@ -81,8 +87,8 @@ nav {
     display: none;
 }
 
-#nav-toggle-label {
-    font-size: 2rem;
+.nav-toggle-label {
+    font-size: 1.8rem;
 }
 
 
@@ -91,7 +97,7 @@ main {
     background-color: beige;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 75px;
+    margin-top: 56px;
 }
 
 /* Footer */
@@ -136,15 +142,15 @@ footer {
 
     /* logo */
     #logo {
-        font-size: 230%;
-        line-height: 5.5rem;
+        font-size: 190%;
+        line-height: 4rem;
         margin: 0 1rem;
     }
 
     /* Main content */
     main {
         /* Push main content down to accommodate larger header */
-        margin-top: 91px;
+        margin-top: 70px;
     }
 
     /* Media query: large device (lapotops and desktops, 992px and up) */
