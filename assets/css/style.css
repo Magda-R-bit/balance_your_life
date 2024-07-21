@@ -94,10 +94,17 @@ nav {
 
 /* Main content */
 main {
-    background-color: beige;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 56px;
+}
+
+/* Hero */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero-colton-sturgeon-6KkYYqTEDwQ-unsplash.jpg") no-repeat center center/cover;
+    position: relative;
 }
 
 /* Footer */
