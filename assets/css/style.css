@@ -134,14 +134,14 @@ main {
 }
 
 #reasons h4 {
-    margin-bottom: 20px;
-    letter-spacing: 1px;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
     text-align: center;
     font-size: 100%;
 }
 
-#mental>div,
-#physical>div {
+#mental > div,
+#physical > div {
     line-height: 45px;
     margin-bottom: 35px;
 }
@@ -155,7 +155,7 @@ main {
 }
 
 #benefits p {
-    margin-bottom: 2px;
+    margin-bottom: 25px;
     letter-spacing: 2px;
     text-align: center;
     color: #2f3236;
@@ -223,7 +223,7 @@ footer {
         display: flex;
     }
 
-    #menu>li {
+    #menu > li {
         padding-left: 1rem;
     }
 
@@ -251,13 +251,7 @@ footer {
         top: 1rem;
     }
 
-    #benefits-image,
-    #benefits-image2 {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-
+    
 }
 
 /* Media query: large device (lapotops and desktops, 992px and up) */
@@ -273,16 +267,41 @@ footer {
         top: 1.5rem;
     }
 
+    /* Reasons section */
+    #reasons {
+        width: 100%;
+    }
+
+    #benefits {
+        display: flex;
+        align-items: stretch;
+    }
+    #benefits > div {
+        flex: 1;
+        padding: 15px;
+    }
+    #mental > p,
+    #physical > p {
+        margin-bottom: 20px;
+        font-size: 18px;
+    }
+
+    #benefits-image {
+        order: 0;
+    }
+
+    #physical {
+        order: 1;
+    }
+
 }
 
 /* Media query for large screens (1200px and up) */
 @media screen and (min-width: 1200px) {
 
     /* Hero */
-    #cover-text h2,
-    #cover-text h3 {
+    #cover-text > h2,
+    #cover-text > h3 {
         color: #2a2d30;
     }
-
-
 }
