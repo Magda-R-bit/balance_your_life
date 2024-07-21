@@ -57,7 +57,7 @@ h1 {
     color: #101825;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
     margin-top: 1em;
 }
@@ -140,8 +140,8 @@ main {
     font-size: 100%;
 }
 
-#mental > div,
-#physical > div {
+#mental>div,
+#physical>div {
     line-height: 45px;
     margin-bottom: 35px;
 }
@@ -153,6 +153,7 @@ main {
     text-align: center;
     font-size: 140%;
 }
+
 #benefits p {
     margin-bottom: 2px;
     letter-spacing: 2px;
@@ -160,7 +161,32 @@ main {
     color: #2f3236;
 }
 
+#circle-cover-bg {
+    background: url("../images/reasons-fabio-comparelli-uq2E2V4LhCY-unsplash.jpg") no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    max-width: 280px;
+    max-height: 280px;
+}
 
+#circle-cover-bg2 {
+    background: url("../images/reasons2-pexels-photo-3822906.jpeg") no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    max-width: 280px;
+    max-height: 280px;
+}
+
+#benefits-image,
+#benefits-image2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 /* Footer */
 footer {
@@ -182,7 +208,8 @@ footer {
 }
 
 /* Media query: tablets and larger (768px and up) */
-@media screen and  (min-width: 768px) {
+@media screen and (min-width: 768px) {
+
     /* Header */
     nav {
         display: block;
@@ -191,10 +218,12 @@ footer {
         width: fit-content;
         padding-right: 1rem;
     }
+
     #menu {
         display: flex;
     }
-    #menu > li {
+
+    #menu>li {
         padding-left: 1rem;
     }
 
@@ -221,31 +250,39 @@ footer {
         left: 10px;
         top: 1rem;
     }
+
+    #benefits-image,
+    #benefits-image2 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
 }
-    /* Media query: large device (lapotops and desktops, 992px and up) */
-    @media screen and (min-width: 992px) {
-        #menu a:hover {
-            border-bottom: 1px solid #101825;
-        }
-        
-        /* Hero */
-        #cover-text {
-            width: 300px;
-            left: 15px;
-            top: 1.5rem;
-        }
 
+/* Media query: large device (lapotops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #101825;
     }
 
-    /* Media query for large screens (1200px and up) */
-    @media screen and (min-width: 1200px) {
-        /* Hero */
-        #cover-text h2, 
-        #cover-text h3 {
-            color: #2a2d30;
-        }
+    /* Hero */
+    #cover-text {
+        width: 300px;
+        left: 15px;
+        top: 1.5rem;
+    }
 
-        
+}
+
+/* Media query for large screens (1200px and up) */
+@media screen and (min-width: 1200px) {
+
+    /* Hero */
+    #cover-text h2,
+    #cover-text h3 {
+        color: #2a2d30;
     }
 
 
+}
