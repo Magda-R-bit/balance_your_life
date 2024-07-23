@@ -140,8 +140,8 @@ main {
     font-size: 100%;
 }
 
-#mental > div,
-#physical > div {
+#mental>div,
+#physical>div {
     line-height: 45px;
     margin-bottom: 35px;
 }
@@ -223,7 +223,7 @@ footer {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
     }
 
@@ -251,7 +251,7 @@ footer {
         top: 1rem;
     }
 
-    
+
 }
 
 /* Media query: large device (lapotops and desktops, 992px and up) */
@@ -274,24 +274,33 @@ footer {
 
     #benefits {
         display: flex;
-        align-items: stretch;
-    }
-    #benefits > div {
-        flex: 1;
-        padding: 15px;
-    }
-    #mental > p,
-    #physical > p {
-        margin-bottom: 20px;
-        font-size: 18px;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 10px;
     }
 
-    #benefits-image {
+    #mental {
         order: 0;
     }
 
-    #physical {
+    #benefits-image {
         order: 1;
+    }
+
+    #benefits-image2 {
+        order: 2;
+    }
+
+    #physical {
+        order: 3;
+    }
+
+    #benefits-image {
+        padding-right: 13px;
+    }
+
+    #benefits-image2 {
+        padding-left: 13px;
     }
 
 }
@@ -300,8 +309,27 @@ footer {
 @media screen and (min-width: 1200px) {
 
     /* Hero */
-    #cover-text > h2,
-    #cover-text > h3 {
+    #cover-text>h2,
+    #cover-text>h3 {
         color: #2a2d30;
     }
+
+    /* Reasons section */
+    #benefits > div {
+        flex: 1;
+    }
+
+    #benefits-image {
+        padding-right: 70px;
+    }
+
+    #benefits-image2 {
+        padding-left: 70px;
+    }
+
+    #physical,
+    #mental {
+        font-size: 20px;
+    }
+
 }
