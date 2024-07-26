@@ -36,7 +36,35 @@
     </header>
 
     <!-- Main content -->
-    <main>nothing
+    <main>
+        <section id="contact">
+            <form id="contact-form" action="https://formdump.codeinstitute.net" methode="post">
+                <h2><i class="fa-solid fa-phone-volume"></i> Get in touch</h2>
+                <label for="name">Name</label>
+                <input type="text" name="name" id="name" class="text-input" required>
+                <br>
+                <label for="email">Email Address</label>
+                <input type="email" name="email_address" id="email" class="text-input" required>
+                <br>
+                <label for="phone">Phone Number</label>
+                <input type="phone" name="phone_number" id="phone" class="text-input" required>
+                <br>
+                <div class="radio-button">
+                    <div>
+                        <input type="radio" name="preference" id="diet" value="diet" required>
+                        <label for="diet">Diet</label>
+                        <br>
+                        <input type="radio" name="preference" id="excercise" value="excercise" required>
+                        <label for="excercise">Excercise</label>
+                        <br>
+                        <input type="radio" name="preference" id="all" value="all" required checked>
+                        <label for="all">All</label>
+                        <br>
+                    </div>
+                </div>
+                <button type="submit" class="contact-me-button">Submit</button>
+            </form>
+        </section>
 
     </main>
 
