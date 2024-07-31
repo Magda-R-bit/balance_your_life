@@ -190,6 +190,39 @@ main {
     justify-content: center;
 }
 
+/* Start here 
+.container {
+    margin-top: 8%;
+}
+.card {
+    width: 90%;
+    height: 450px;
+    background: #e4e4e4d0;
+    margin: 25px 15px;
+    padding: 28px 20px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0.5px 8px #dddcdc;
+    margin-top: 5%;
+}
+.photo {
+    position: relative;
+    width: 180px;
+    height: 180px;
+    top: -45px;
+    left: 16px;
+    box-shadow: 0 5px 20px rbga (0,0,0,1.2);
+}
+
+.photo img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+.photo:hover img {
+    transform: scale(1.1);
+}*/
+
+
 /* Form */
 #contact {
     background-image: url("../images/jeremy-bishop-EwKXn5CapA4-unsplash.jpg");
@@ -295,6 +328,15 @@ footer {
         top: 1rem;
     }
 
+    /* Start here */
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
     /* Form */
     #contact-form {
         position: absolute;
@@ -363,6 +405,7 @@ footer {
     #benefits-image2 {
         padding-left: 13px;
     }
+ 
 
     /* Form */
 
@@ -402,5 +445,6 @@ footer {
     #mental {
         font-size: 20px;
     }
+
 
 }
