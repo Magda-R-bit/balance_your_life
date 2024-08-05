@@ -1,13 +1,11 @@
 # Balance Your Life
 
+Balance Your life is a website designed to help individuals achieve balance in all aspects of their lives. Unlike other platforms that focus solely on work-life balance, this site targets a broader audience, recognizing that true well-being encompasses every area of life.
+
+This site provides valuable information and practical techniques to help users effectively balance their lives. Whether they are struggling with stress, burnout, anxiety, or fatigue, Balance Your Life offers a starting point for everyone looking to boost their life energy and overall well-being.
 
 
-
-
-
-
-
-![Screenshot of Responsive Mockup ](/assets/images/responsive.png)
+![Screenshot of Responsive Mockup ][def]
 
 
 
@@ -73,3 +71,6 @@ The site was created using Gitpod eeditor and pushed to Github
 - Header footer contact page created based on Love Running project
 
 ### Media
+
+
+[def]: /assets/images/Website%20Mockup%20Generator.png
