@@ -5,7 +5,7 @@ Balance Your life is a website designed to help individuals achieve balance in a
 This site provides valuable information and practical techniques to help users effectively balance their lives. Whether they are struggling with stress, burnout, anxiety, or fatigue, Balance Your Life offers a starting point for everyone looking to boost their life energy and overall well-being.
 
 
-![Screenshot of Responsive Mockup ](/assets/images/Website.Mockup.Generator.png)
+![Screenshot of Responsive Mockup ](/assets/images/Multi.Device.Website.Mockup.png)
 
 
 
