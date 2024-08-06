@@ -47,10 +47,14 @@ This site provides valuable information and practical techniques to help users e
 
 * The Start Here page
 
+ - 
+
 * The Contact page
 
 
 ### Features to implement
+
+ - audio and video
 
 
 
@@ -80,7 +84,7 @@ This site provides valuable information and practical techniques to help users e
 
 
 ## Deployment
-
+ - Step by step
 
 ### Version Control
 
