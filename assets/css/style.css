@@ -228,10 +228,11 @@ main {
     transform: scale(1.1);
 }
 
-.container .card .photo>h2 {
+.container .card .photo h2 {
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
+    color: #3c3e44;
 }
 
 .container .card .photo li {
@@ -239,6 +240,7 @@ main {
     list-style-type: none;
     margin-bottom: 10px;
     letter-spacing: 1px;
+    color: #3d3f47;
 }
 
 .more {
@@ -247,6 +249,9 @@ main {
     justify-content: center;
     text-align: center;
     font-size: 19px;
+}
+.more a {
+    color: #3c3e44;
 }
 
 
