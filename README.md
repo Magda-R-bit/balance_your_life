@@ -23,12 +23,27 @@ This site provides valuable information and practical techniques to help users e
 
 * The Home page
 
-   - This landing page features a photograph of a balanced tower of stones with varying sizes, shapes, and colors. It is a powerful metaphor for life's different aspects and the art of balancing them. Despite of their differences, when they are in balance, they contribute to a sense of overall stability and well-being.
+   - The landing page features a photograph of a balanced tower of stones with varying sizes, shapes, and colors. It is a powerful metaphor for life's different aspects and the art of balancing them. Despite of their differences, when they are in balance, they contribute to a sense of overall stability and well-being.
    - This section introduces to Balance Your Life and explains the user how important is a balance. Each aspect of our lives is unique, with its own weight and shape- work, relationships, health, personal growth, and leisure. It might seem daunting to bring these varied components together, but with thoughtful arrangements and balance, they can create a harmonious and stable existence.
 
    ![Screenshot of home page](/assets/images/Home.page.photo.png)
 
+
+   - The reasons section explains the user why we need to balance our mind with body and soul in order to create a meaningful life and enjoy every moment and how we can achieve it.
+
+
+   ![Screenshot of reasons section](/assets/images/reasons.readme.png)
+
+
+
 * The Footer
+
+  - The footer section includes links to social media such us: Facebook, Twitter and Youtube.
+  - All links opens in a new tab for easy navigation.
+  - It provides users with quick access to additional information.
+
+  ![Screenshot of footer](/assets/images/footer.photo.png) 
+  
 
 * The Start Here page
 
