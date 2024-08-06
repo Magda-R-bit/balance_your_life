@@ -20,9 +20,13 @@ This site provides valuable information and practical techniques to help users e
      ![Screenshot of nav bar](/assets/images/nav.bar.png)
 
 
-* The Header
 
-* The home page
+* The Home page
+
+   - This landing page features a photograph of a balanced tower of stones with varying sizes, shapes, and colors. It is a powerful metaphor for life's different aspects and the art of balancing them. Despite of their differences, when they are in balance, they contribute to a sense of overall stability and well-being.
+   - This section introduces to Balance Your Life and explains the user how important is a balance. Each aspect of our lives is unique, with its own weight and shape- work, relationships, health, personal growth, and leisure. It might seem daunting to bring these varied components together, but with thoughtful arrangements and balance, they can create a harmonious and stable existence.
+
+   ![Screenshot of home page](/assets/images/Home.page.photo.png)
 
 * The Footer
 
