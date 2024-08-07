@@ -47,7 +47,23 @@ This site provides valuable information and practical techniques to help users e
 
 * The Start Here page
 
- - 
+  - The start here page is designed to help users start their jurney towards achieving  a harmonious life. Whether they are new to the concept of holistic well-being or looking to deepen their understanding, this guide provides simple, actionable steps they can take right now to start feeling more balanced and energized.
+
+  - Mind. This section focus on enhancing mental end emotional well-being. Users can find simple tips that can help them start improving their mental and emotional health by emphasizing mindfulness and meditation, especially in natural settings.
+
+  ![Screnshot of mind section](/assets/images/mind.readme.png)
+
+   - Body. In this section user can find simple advise on how they can balance their life by moving their body, starting with yoga or pilates. 
+   - Movement is vital for physical and mental health. It boost energy levels and mood, contributing to an overall sense of well-being.
+
+   ![Screenshot of body section](/assets/images/body.readme.png)
+
+   - Soul. In this section users can explore ways to balance their soul not only through spiritual practices, but also by nourishing the body with the right foods.
+   - Both Ayurveda and the Chinese Five Element Diet offer holistic approaches to diet and encourage mindful eating, where one is fully present while eating, focusing on the taste, texture, aroma of food. These diets consider the mind-body-soul connection. Some herbs like ashwagandha and turmeric are known for their calming and mood-enhancing properties.
+   - Integrating both diets and simplifying life can help users to cultivate inner peace, emotional stability, and a deeper connection with their soul.
+
+   ![Screenshot of soul section](/assets/images/soul.readme.png)
+
 
 * The Contact page
 

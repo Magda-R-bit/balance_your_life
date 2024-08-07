@@ -566,12 +566,12 @@ footer {
     /* Start here */
 
     .container {
-        margin: 80px;
+        margin: 60px;
         padding: 50px;
     }
 
     .container .card {
-        margin: 30px;
+        margin: 50px;
         padding: 50px;
     }
 
