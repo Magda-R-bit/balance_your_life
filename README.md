@@ -67,10 +67,15 @@ This site provides valuable information and practical techniques to help users e
 
 * The Contact page
 
+ - This section invites users to fill out the form to request personalized advice. They can select areas they want to focus on, such us diet, excercise, or a comprehensive approach. This form aims to provide tailored guidance based on individual needs and preferences.
+ - The background of the form presents a tree of life. Among its branches, subtle rays of light shine through, representing the positive aspects present even in an unbalanced life. This photographs serves as a metaphor, reminding users that there is always a possibility for improvement and balance, no matter their starting point. 
+
+ ![Screenshot of contact page](/assets/images/contact.readme.png)
+
 
 ### Features to implement
 
- - audio and video
+ - Audio and video.
 
 
 
