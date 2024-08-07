@@ -104,7 +104,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url("../images/hero-colton-sturgeon-6KkYYqTEDwQ-unsplash.jpg") no-repeat center center/cover;
+    background: url("../images/heroImage.jpg") no-repeat center center/cover;
     position: relative;
 }
 
@@ -171,7 +171,7 @@ main {
 }
 
 #circle-cover-bg {
-    background: url("../images/reasons-fabio-comparelli-uq2E2V4LhCY-unsplash.jpg") no-repeat top center / cover;
+    background: url("../images/manRunningAcrossBridge.jpg") no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
@@ -181,7 +181,7 @@ main {
 }
 
 #circle-cover-bg2 {
-    background: url("../images/reasons2-pexels-photo-3822906.jpeg") no-repeat top center / cover;
+    background: url("../images/bodyBalance.jpeg") no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
@@ -258,7 +258,7 @@ main {
 
 /* Form */
 #contact {
-    background-image: url("../images/jeremy-bishop-EwKXn5CapA4-unsplash.jpg");
+    background-image: url("../images/treeOfLife.jpg");
     background-size: cover;
     background-position: 100%;
     padding: 20px 10% 20px 10%;
