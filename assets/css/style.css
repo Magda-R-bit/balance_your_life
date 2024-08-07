@@ -142,6 +142,7 @@ main {
     font-size: 100%;
     color: #3d3f47;
 }
+
 #why a {
     color: #3c3e44;
 }
@@ -209,7 +210,6 @@ main {
     box-shadow: 0.5px 8px #dddcdc;
     margin-top: 9%;
     padding: 30px;
-    position: flex;
     align-items: center;
     justify-content: center;
 }
@@ -221,7 +221,7 @@ main {
 
 .container .card .photo img {
     max-width: 100%;
-    box-shadow: 0 5px 15px rgba(120, 120, 120, 1.8);
+    box-shadow: 0 5px 15px rgba(120, 120, 120, 0.9);
 }
 
 .photo:hover img {
@@ -250,6 +250,7 @@ main {
     text-align: center;
     font-size: 19px;
 }
+
 .more a {
     color: #3c3e44;
 }

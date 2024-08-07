@@ -91,12 +91,14 @@ This site provides valuable information and practical techniques to help users e
 - check contact form if working
 
 - HTML  
-     - No errors
-![Screenshot HTML Validator results]
+     - No errors found on  [W3C HTML Validator](http://validator.w3.org/)
+
+![Screenshot HTML Validator results](/assets/images/html.validator.png)
 
 - CSS
-    - No errors
-![Screenshot CSS Validator results]
+    - No errors found on [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+
+![Screenshot CSS Validator results](/assets/images/css.validator.png)
 
 
 ## Bugs
