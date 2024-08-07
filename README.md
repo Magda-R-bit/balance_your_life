@@ -82,13 +82,19 @@ This site provides valuable information and practical techniques to help users e
 ## Testing
 
 - Accessibility
-(ran page on lighthouse)
-![Screenshot of Lighthouse results]
 
-- test website on different browsers,
-- check internal links if working
-- check external links like facebook
-- check contact form if working
+ - Website tested with lighthouse, it is accessible.
+
+![Screenshot of Lighthouse results](/assets/images/lighthouse.readme.png)
+
+
+
+- Tested on different browsers: Chrome, Edge, DuckDuckGo. Website works on all.
+- Tested internal links. All work and redirecting users between pages.
+- Tested external links for: Facebook, Tweeter and YouTube. All open in separate tab.
+- Tested contact form. All fields are required and email field accepts only email address.
+
+![Screenshot of contact page](/assets/images/contact.form.readme.png)
 
 - HTML  
      - No errors found on  [W3C HTML Validator](http://validator.w3.org/)
@@ -103,8 +109,11 @@ This site provides valuable information and practical techniques to help users e
 
 ## Bugs
 
+ - No bugs found.
+
 ### Unfixed Bugs
 
+ - No unfixed bugs.
 
 ## Deployment
  - Step by step
