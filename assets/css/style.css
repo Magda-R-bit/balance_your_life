@@ -258,10 +258,10 @@ main {
 
 /* Form */
 #contact {
-    background-image: url("../images/treeOfLife.jpg");
-    background-size: cover;
-    background-position: 100%;
-    padding: 20px 10% 20px 10%;
+    background: url("../images/treeOfLife.jpg") no-repeat center center / cover;
+    height: 800px;
+    width: 100%;
+    padding: 10px 5% 10px 5%;
     flex-grow: 1;
 }
 
@@ -562,6 +562,13 @@ footer {
 
 /* Media query for desktop screens (1600px and up) */
 @media screen and (min-width: 1600px) {
+
+
+      /* Hero */
+      #cover-text > h2,
+      #cover-text > h3 {
+          color: #0d0f11;
+      }
 
 
     /* Start here */
