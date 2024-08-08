@@ -25,12 +25,13 @@
             <h1 id="logo">Balance Your Life</h1>
         </a>
         <input type="checkbox" id="nav-toggle" name="nav-toggle">
-        <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-chart-bar"></i>X</label>
+        <label for="nav-toggle" class="nav-toggle-label" aria-label="toggle-label"><i
+                class="fa-solid fa-chart-bar"></i></label>
         <nav>
             <ul id="menu">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html#home">Home</a></li>
                 <li><a href="start.here.html">Start Here</a></li>
-                <li><a href="contact.html" class="active">Contact</a></li>
+                <li><a href="" class="active">Contact</a></li>
             </ul>
         </nav>
     </header>
@@ -49,19 +50,21 @@
                 <label for="phone">Phone Number</label>
                 <input type="tel" name="phone_number" id="phone" class="text-input" required>
                 <br>
-                <div class="radio-button">
+                <fieldset class="radio-button">
+                    <legend id="interests">Select Your Interests</legend>
                     <div>
                         <input type="radio" name="preference" id="diet" value="diet" required>
                         <label for="diet">Diet</label>
-                        <br>
-                        <input type="radio" name="preference" id="excercise" value="excercise" required>
-                        <label for="excercise">Exercise</label>
-                        <br>
+                    </div>
+                    <div>
+                        <input type="radio" name="preference" id="exercise" value="exercise" required>
+                        <label for="exercise">Exercise</label>
+                    </div>
+                    <div>
                         <input type="radio" name="preference" id="all" value="all" required checked>
                         <label for="all">All</label>
-                        <br>
                     </div>
-                </div>
+                </fieldset>
                 <button type="submit" class="contact-me-button">Submit</button>
             </form>
         </section>
