@@ -85,7 +85,7 @@ This site provides valuable information and practical techniques to help users e
 
  - Website tested with lighthouse, it is accessible.
 
-![Screenshot of Lighthouse results]
+![Screenshot of Lighthouse results](/assets/images/readme/lighthouse.png)
 
 
 
