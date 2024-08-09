@@ -144,15 +144,15 @@ This site provides valuable information and practical techniques to help users e
 
   ![Screenshot of wireframes](/assets/images/readme/wireframes1.jpg)
   ![Screenshot of wireframes](/assets/images/readme/wireframes2.jpg)
-  
+
   ![Screenshot of wireframes](/assets/images/readme/wireframes3.jpg)
 
 ## Credits
 
- - ** Secial Thanks**:
-    - **[Spencer Barri]** - For your mentorship. Your insights and advice were crucial to the success of this project.
+- **Special Thanks**:
+    - **Spencer Barriball** - For your mentorship. Your insights and advice were crucial to the success of this project.
 
-<!--### Content
+<!--###  Content
 - Favicon  taken from [Favicon](https://favicon.io/)
 - Icons taken from [Font awesome](https://fontawesome.com/)
 - Header, footer and contact page inspired by Love Running project
