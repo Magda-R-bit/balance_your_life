@@ -152,15 +152,27 @@ This site provides valuable information and practical techniques to help users e
 - **Special Thanks**:
     - **Spencer Barriball** - For your mentorship. Your insights and advice were crucial to the success of this project.
 
-<!--###  Content
-- Favicon  taken from [Favicon](https://favicon.io/)
-- Icons taken from [Font awesome](https://fontawesome.com/)
-- Header, footer and contact page inspired by Love Running project
-- Start here page inspired by [YouTube tutorial](https://www.youtube.com/watch?v=UG45sVvR6GU)
+
+### Content
+
+- **Favicon**: Taken from [Favicon](https://favicon.io/).
+- **Icons**: Taken from [Font Awesome](https://fontawesome.com/).
+- **Design Inspiration**:
+  - **Header, Footer and Contact page**: Inspired by "Love Running project".
+  - **Start Here Page**: Inspired by [YouTube tutorial](https://www.youtube.com/watch?v=UG45sVvR6GU)
 
 
 ### Media
 
-- Images downloaded from  [Pexels](https://favicon.io/) and [Unsplash](https://unsplash.com/) websites. -->
+- **Images**: 
+   - Downloaded from  [Pexels](https://favicon.io/):
+     - Reasons section (Lady in Yoga position- Home Page).
+     - Body and Soul section (Start Here Page).
+   - Downloaded from  [Unsplash](https://unsplash.com/):
+     - Hero Image (Home Page).
+     - Reasons section (Men on the bridge- Home page).
+     - Mind section (Start Here Page).
+     - Background Image (Contact Page).
+
 
 
