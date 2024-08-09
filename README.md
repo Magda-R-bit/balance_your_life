@@ -135,7 +135,14 @@ This site provides valuable information and practical techniques to help users e
 
 
 
-## Wireframes (balsamiq)
+## Wireframes 
+
+ - The wireframes for the website were hand-drawn for a mobile version.
+   1. Home Page
+   2. Start Here Page
+   3. Contact Page 
+
+  ![Screenshot of wireframes](/assets/images/readme/wireframes.png)
 
 ## Credits
 
