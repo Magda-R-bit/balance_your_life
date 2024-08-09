@@ -116,11 +116,24 @@ This site provides valuable information and practical techniques to help users e
  - No unfixed bugs.
 
 ## Deployment
- - Step by step
 
-### Version Control
+ ### Version Control
 
-The site was created using Gitpod editor and pushed to Github
+  - The site was created using Gitpod editor and pushed to Github to the remote repository balance_your_life.
+  - Git commands were used to push the code to the repository.
+
+ ### Deployment to Github Pages
+
+  - This website was deployed to Github pages with bellow steps:
+    - Navigate to repository on GitHub
+    - Go to settings tab in repository
+    - Scroll down to the "Pages" section
+    - Select the branch
+    - Under "Source" select the branch to deploy ('main')
+    - Save settings 
+  - Link to website: [Balance Your Life](https://magda-r-bit.github.io/balance_your_life/)
+
+
 
 ## Wireframes (balsamiq)
 
