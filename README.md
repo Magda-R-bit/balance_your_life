@@ -142,9 +142,15 @@ This site provides valuable information and practical techniques to help users e
    2. Start Here Page
    3. Contact Page 
 
-  ![Screenshot of wireframes](/assets/images/readme/wireframes.png)
+  ![Screenshot of wireframes](/assets/images/readme/wireframes1.jpg)
+  ![Screenshot of wireframes](/assets/images/readme/wireframes2.jpg)
+  
+  ![Screenshot of wireframes](/assets/images/readme/wireframes3.jpg)
 
 ## Credits
+
+ - ** Secial Thanks**:
+    - **[Spencer Barri]** - For your mentorship. Your insights and advice were crucial to the success of this project.
 
 <!--### Content
 - Favicon  taken from [Favicon](https://favicon.io/)
