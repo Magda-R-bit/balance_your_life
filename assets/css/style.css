@@ -260,10 +260,12 @@ main {
 
 #contact {
     background-image: url("../images/treeOfLife.jpg");
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
     background-size: cover;
-    background-position: 75%;
-    padding: 10px 5% 0 5%;
-    flex-grow: 1;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 #contact-form {
@@ -292,6 +294,7 @@ main {
 .interests {
     text-align: center;
 }
+
 .contact-me-button {
     margin-top: 15px;
     border-radius: 2px;
@@ -455,7 +458,7 @@ footer {
     .interests {
         font-size: 23px;
     }
-    
+
 
 
 }
@@ -619,5 +622,19 @@ footer {
         font-size: 26px;
     }
 
+
+}
+
+/* Media query for desktop screens (1920px and up) */
+@media screen and (min-width: 1920px) {
+
+    /* Form */
+
+    #contact {
+        background-position: 100%;
+        padding: 10px 5% 0 5%;
+        flex-grow: 1;
+        height: 100vh;
+    }
 
 }
