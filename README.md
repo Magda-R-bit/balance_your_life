@@ -38,20 +38,20 @@ This site offers valuable insights and practical techniques to help users effect
 
 * The Footer
 
-  - The footer section includes links to social media such as Facebook, Twitter and YouTube.
-  - All links open in a new tab for easy navigation.
-  - It offers users quick access to additional information.
+   - The footer section includes links to social media such as Facebook, Twitter and YouTube.
+   - All links open in a new tab for easy navigation.
+   - It offers users quick access to additional information.
 
-  ![Screenshot of footer](/assets/images/readme/footer.png) 
+   ![Screenshot of footer](/assets/images/readme/footer.png) 
   
 
 * The Start Here page
 
-  - The start here page is designed to help users begin their journey towards achieving a harmonious life. Whether they are new to the concept of holistic well-being or looking to deepen their understanding, this guide provides simple, actionable steps they can take right now to start feeling more balanced and energized.
+   - The start here page is designed to help users begin their journey towards achieving a harmonious life. Whether they are new to the concept of holistic well-being or looking to deepen their understanding, this guide provides simple, actionable steps they can take right now to start feeling more balanced and energized.
 
-  - Mind. This section focuses on enhancing mental and emotional well-being. Users can find simple tips that can help them start improving their mental and emotional health by emphasizing mindfulness and meditation, especially in natural settings.
+   - Mind. This section focuses on enhancing mental and emotional well-being. Users can find simple tips that can help them start improving their mental and emotional health by emphasizing mindfulness and meditation, especially in natural settings.
 
-  ![Screnshot of mind section](/assets/images/readme/nature.png)
+   ![Screnshot of mind section](/assets/images/readme/nature.png)
 
    - Body. In this section, users can find simple advice on how they can balance their life by moving their body, starting with Yoga or Pilates. 
    - Movement is essential for physical and mental health. It boosts energy levels and mood, contributing to an overall sense of well-being.
@@ -65,12 +65,12 @@ This site offers valuable insights and practical techniques to help users effect
    ![Screenshot of soul section](/assets/images/readme/spicesHerbs.png)
 
 
-* The Contact page
+* The Contact Page
 
- - This section encourages users to complete the form to request personalized advice. They can choose areas they wish to focus on, such as diet, exercise, or a comprehensive approach. This form aims to provide tailored guidance based on individual needs and preferences.
- - The background of the form features a tree of life. Among its branches, gentle rays of light shine through, symbolizing the positive aspects that exist even in an unbalanced life. This photographs serves as a metaphor, reminding users that there is always a possibility for improvement and balance, regardless of their starting point. 
+  - This section encourages users to complete the form to request personalized advice. They can choose areas they wish to focus on, such as diet, exercise, or a comprehensive approach. This form aims to provide tailored guidance based on individual needs and preferences.
+  - The background of the form features a tree of life. Among its branches, gentle rays of light shine through, symbolizing the positive aspects that exist even in an unbalanced life. This photographs serves as a metaphor, reminding users that there is always a possibility for improvement and balance, regardless of their starting point. 
 
- ![Screenshot of contact page](/assets/images/readme/contactPage.png)
+  ![Screenshot of contact page](/assets/images/readme/contactPage.png)
 
 
 ### Features to implement
