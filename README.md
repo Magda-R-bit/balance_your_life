@@ -138,9 +138,9 @@ This site offers valuable insights and practical techniques to help users effect
 ## Wireframes 
 
  - The wireframes for the website were sketched by hand for a mobile version.
-   1. Home Page
-   2. Start Here Page
-   3. Contact Page 
+  1. Home Page
+  2. Start Here Page
+  3. Contact Page 
 
   ![Screenshot of wireframes](/assets/images/readme/wireframes1.jpg)
   ![Screenshot of wireframes](/assets/images/readme/wireframes2.jpg)
